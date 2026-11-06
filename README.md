@@ -7,7 +7,7 @@ CampusConnect is a Django web application built with a custom user model, secure
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Open Terminal & Activate Virtual Environment
 
